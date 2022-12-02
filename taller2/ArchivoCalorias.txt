@@ -1,0 +1,60 @@
+Dia 1
+TotalCalorias(3000).
+Dia 2
+TotalCalorias(3425).
+Dia 3
+TotalCalorias(2875).
+Dia 4
+TotalCalorias(2350).
+Dia 5
+TotalCalorias(2850).
+Dia 6
+TotalCalorias(3000).
+Dia 7
+TotalCalorias(3100).
+Dia 8
+TotalCalorias(3650).
+Dia 9
+TotalCalorias(3075).
+Dia 10
+TotalCalorias(2700).
+Dia 11
+TotalCalorias(1600).
+Dia 12
+TotalCalorias(1025).
+Dia 13
+TotalCalorias(1550).
+Dia 14
+TotalCalorias(1175).
+Dia 15
+TotalCalorias(1175).
+Dia 16
+TotalCalorias(1275).
+Dia 17
+TotalCalorias(1550).
+Dia 18
+TotalCalorias(1425).
+Dia 19
+TotalCalorias(1250).
+Dia 20
+TotalCalorias(1200).
+Dia 21
+TotalCalorias(1425).
+Dia 22
+TotalCalorias(1950).
+Dia 23
+TotalCalorias(1275).
+Dia 24
+TotalCalorias(1650).
+Dia 25
+TotalCalorias(1600).
+Dia 26
+TotalCalorias(1000).
+Dia 27
+TotalCalorias(1750).
+Dia 28
+TotalCalorias(1525).
+Dia 29
+TotalCalorias(1475).
+Dia 30
+TotalCalorias(1600).

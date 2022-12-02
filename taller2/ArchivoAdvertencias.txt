@@ -1,0 +1,59 @@
+
+Dia 1
+Advertencia(Exceso de calorias).
+Dia 2
+Advertencia(Exceso de calorias).
+Dia 3
+Advertencia(Exceso de calorias).
+Advertencia(Almuerzo y merienda).
+Dia 4
+Advertencia(Exceso de calorias).
+Dia 5
+Advertencia(Exceso de calorias).
+Dia 6
+Advertencia(Exceso de calorias).
+Dia 7
+Advertencia(Exceso de calorias).
+Dia 8
+Advertencia(Exceso de calorias).
+Dia 9
+Advertencia(Exceso de calorias).
+Dia 10
+Advertencia(Exceso de calorias).
+Dia 11
+Advertencia(Exceso de calorias).
+Advertencia(Almuerzo y merienda).
+Dia 12
+Dia 13
+Advertencia(Exceso de calorias).
+Dia 14
+Dia 15
+Dia 16
+Advertencia(Exceso de calorias).
+Dia 17
+Advertencia(Exceso de calorias).
+Dia 18
+Advertencia(Exceso de calorias).
+Dia 19
+Advertencia(Exceso de calorias).
+Dia 20
+Dia 21
+Advertencia(Exceso de calorias).
+Dia 22
+Advertencia(Exceso de calorias).
+Dia 23
+Advertencia(Exceso de calorias).
+Dia 24
+Advertencia(Exceso de calorias).
+Dia 25
+Advertencia(Exceso de calorias).
+Advertencia(Almuerzo y merienda).
+Dia 26
+Dia 27
+Advertencia(Exceso de calorias).
+Dia 28
+Advertencia(Exceso de calorias).
+Dia 29
+Advertencia(Exceso de calorias).
+Dia 30
+Advertencia(Exceso de calorias).
